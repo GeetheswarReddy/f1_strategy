@@ -1,0 +1,12 @@
+fastf1 
+pandas
+numpy
+scikit-learn
+xgboost
+bentoml
+fastapi
+uvicorn
+psycopg2-binary
+sqlalchemy
+wandb
+mlflow
